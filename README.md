@@ -164,7 +164,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🔗 Links
 
 - [TOON Specification](https://github.com/cognitivecomputations/toon)
-- [Live Demo](https://toonkit.vercel.app) *(if deployed)*
+- [Live Demo](https://toonkit.vercel.app)
 - [Report Issues](https://github.com/hzeghari/toonkit/issues)
 
 ---
